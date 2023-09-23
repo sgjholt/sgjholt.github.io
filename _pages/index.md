@@ -11,4 +11,5 @@ Check out these other pages:
 
 - [About](/about/)
 - [Blog](/blog/)
+- [Resume](/resume/)
 - [Contact](/contact/)
