@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome!
 
- I am a data scientist with 2+ years of industry experience, and I hold a Ph.D. in Geophysics from the University of Liverpool. I graduated in 2019, and have since worked as a researcher and data scientist. I endeavour to keep adding content to this website over time. I am constantly teaching myself new things (such as building a website with Jekyll :rocket:) and I hope to be able to share some of them with you!
+ I am a data scientist with 2+ years of industry experience, and I hold a Ph.D. in Geophysics from the University of Liverpool. I graduated in 2019, and have since worked as a researcher and data scientist. I endeavour to keep adding content to this website over time. I am constantly teaching myself new things (such as building a website with Jekyll 🚀) and I hope to be able to share some of them with you!
 
 ## About me
 My passion for data science stems from my curiosity about the natural phenomena that shape our planet and the data that can help us comprehend them better. That’s why I obtained a Ph.D. in geophysics, where I investigated seismic waves and their interactions with the Earth’s structure. I utilized Python and MATLAB to process and examine large datasets of seismic recordings (digital time series) from around the world. As a researcher, I authored three peer-reviewed publications in reputable journals.
