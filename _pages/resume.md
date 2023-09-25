@@ -1,6 +1,6 @@
 ---
 title: Resume
-resume_pdf: "/files/data_scientist_resume_ 2023_09_plain_no_contacts.pdf"
+resume_pdf: "/files/data_scientist_resume_2023_09_plain_no_contacts.pdf"
 permalink: /resume/
 ---
 
