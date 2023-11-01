@@ -1,0 +1,20 @@
+#testimonials {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.testimonial {
+    margin-bottom: 20px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+cite {
+    font-size: smaller;
+}
+
+.more {
+    display: none;
+}
