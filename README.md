@@ -13,6 +13,8 @@ Currently, the following elements are supported:
 
 ### If you have gem installed but not jekyll
 
+Instructions from: https://gist.github.com/jacobdepriest/75f358377d649bb098106c9ddadfd3df
+
 _Note: Github Codespaces should already have gem installed._
 
 ```sh
