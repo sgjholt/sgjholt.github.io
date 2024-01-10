@@ -8,3 +8,27 @@ To add elements to the header or footer of the default theme, add them to the `_
 Currently, the following elements are supported:
     - Navbar
     - Copywright Statement
+
+## Developing
+
+### If you have gem installed but not jekyll
+
+Instructions from: https://gist.github.com/jacobdepriest/75f358377d649bb098106c9ddadfd3df
+
+_Note: Github Codespaces should already have gem installed._
+
+```sh
+gem install bundler jekyll
+```
+
+then,
+
+```sh
+bundle update
+```
+
+### To serve the webpage locally for testing
+
+```sh
+bundle exec jekyll serve
+```
