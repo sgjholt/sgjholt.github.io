@@ -37,7 +37,7 @@ I was fortunate to have people to support me, talk to, and rely on to help me na
 
 ### _"How will I find a new job in a down market?"_
 
-__Week 1 | Post-Layoff__
+__Week 1 Post-Layoff__
 
 1. While it was still fresh, I wrote down __EVERYTHING__ I did at my last job.
 
@@ -46,7 +46,7 @@ __Week 1 | Post-Layoff__
 3. I wrote down what I wanted from my next job, e.g.,
     - Industry: Video Games, Insurance, Finance, Tech, Logistics, etc.
     - Job title: Data Scientist, Senior Data Scientist
-    - Base Comp: $125k to $135k 
+    - Base Comp: For example, $130k to $140k 
 
 4. I applied for some 'low-hanging fruit' opportunities to test my resume
 
@@ -58,14 +58,14 @@ I was fortunate that I could take time off. I raced to get all of my knowledge o
 
 ## Nov. (2023): Let the search 🔎, begin!
 
-I began applying in bursts, sending out applications, seeing responses, and then making small adjustments to my resume to improve my hitrate. I eventually found a good balance, and by the end of the month I was interviewing!
+I began applying in bursts, sending out applications, seeing responses, and then making small adjustments to my resume to improve my hit rate. I eventually found a good balance, and by the end of the month I was interviewing!
 
 In the meantime, I was also working on some up-skilling:
 - I decided to recreate this website, but using `FastAPI` and `React JS`
 
 ## Dec. (2023) | Interviewing & 'Up Skilling' 
 
-### Upskilling
+### Up skilling
 
 #### Prototyping the Front End 😃
 I made lots of good progress, on my new website. By the beginning of the month, I had managed to build the front end, with all of the pages, but they were all still using dummy data from the backend API.

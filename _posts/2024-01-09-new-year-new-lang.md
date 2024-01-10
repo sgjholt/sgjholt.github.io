@@ -27,7 +27,7 @@ I got to the end, really fast. I realized I enjoyed it so much. I also found I l
 
 I have wanted to learn [Rust](https://pola.rs), since I started using Polars. Polars's Python API is amazing. While still young, it really shows the true potential of a marriage between Rust and Python. But, I kept running up against a wall when using it. I ended up constantly going to the [Pola-rs crate](https://docs.rs/polars/latest/polars/) on [crates.io](https://crates.io/) (this is approximately, the Rust equivalent of PyPi), to figure out what was going on, since all errors led me to there.
 
-However, the language scared me. Like, really scared me. The learning curve is notoriously difficult, because it is such a safe langrage. Notwithstanding, it works at a lower level than Python. I could never find the motivation to push through. 
+However, the language scared me. Like, really scared me. The learning curve is notoriously difficult, because it is such a safe language. Notwithstanding, it works at a lower level than Python. I could never find the motivation to push through. 
 
 That is, until I learned about (Bevy)[https://bevyengine.org/learn/]. Bevy is a game engine built in Rust. Brilliant. I always wanted to learn Rust, I enjoyed learning new stuff via building games, this is a sign from above!
 
