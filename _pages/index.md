@@ -71,5 +71,24 @@ permalink: /
     <a href="#" class="readMore">Read More</a>
     <cite>- Jiehwan Yang, Coyote Logistics, Data Scientist, Sept. 2023</cite>
   </div>
+  <div class="testimonial">
+    <p>
+      "I wholeheartedly recommend James for any future opportunities in the field of data science ..."
+      <span class="more">
+      <br><br>
+      <b>Mashall Jahangir</b>, Coyote Logistics, Data Scientist, Jan. 2024 (continued)
+      <br><br>
+      As a colleague at Coyote Logistics, I had the pleasure of working closely with James and can attest to his exceptional abilities and professional demeanor.
+      <br><br>
+      James stood out not only for his technical expertise but also for his remarkable mentorship skills. He possesses a deep understanding of data science, which he applies with creativity and precision to solve complex problems. His approach to data analysis and model development is both innovative and practical, leading to significant improvements in our project outcomes.
+      <br><br>
+      Beyond his technical prowess, what truly sets James apart is his dedication to mentoring others. James has a natural ability to explain intricate concepts in an accessible manner, making him an invaluable resource to our team. 
+      <br><br>
+      In summary, James is a rare talent with a blend of technical acumen and interpersonal skills. His impact at Coyote Logistics was profound, and I am confident that he will bring the same level of excellence and dedication to any future role. I strongly recommend him without reservation.
+      </span>
+    </p>
+    <a href="#" class="readMore">Read More</a>
+    <cite>- Mashall Jahangir, Coyote Logistics, Data Scientist, Jan. 2024</cite>
+  </div>
   <!-- Add more testimonials here -->
 </section>
